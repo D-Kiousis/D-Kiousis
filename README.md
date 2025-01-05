@@ -1,5 +1,15 @@
-## Hi there 👋
-
+<h2 align="center"> Hello!👋
+  
+I'm Dani Kiousis, nice to meet you!
+## 🎓 I’m Currently Pursuing...
+An Undegraduate Degree in Information Sciences
+## 💻 I’m Currently Learning...
+- Data Structures
+- Web Systems Development
+## 📧 How To Reach Me:
+**ddakious@gmail.com**
+## ⚡ Fun fact:
+I love playing Sci-Fi games
 <!--
 **D-Kiousis/D-Kiousis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
